@@ -35,4 +35,4 @@ A criticism and suggestion system developed for a public library.
 
 ## Connect With Me
 
-- LinkedIn: [your LinkedIn]
+- LinkedIn: https://www.linkedin.com/in/alifamarsha/
