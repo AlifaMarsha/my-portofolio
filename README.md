@@ -36,4 +36,4 @@ A criticism and suggestion system developed for a public library.
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/alifamarsha/
-- Instagram: https:/www.instagram.com/writenote.sha/
+- Instagram: https://www.instagram.com/writenote.sha/
